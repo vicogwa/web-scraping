@@ -1,0 +1,21 @@
+# Ignore virtual environment directories
+venv/
+.venv/
+
+# Ignore compiled bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore database files
+*.sqlite3
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific directories
+.vscode/
+.idea/
